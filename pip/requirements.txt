@@ -24,6 +24,7 @@ executing==0.8.3
 fastjsonschema==2.16.2
 flit_core==3.8.0
 fonttools==4.25.0
+future==0.18.2
 idna==3.4
 importlib-metadata==6.0.0
 ipykernel==6.19.2
@@ -93,6 +94,7 @@ stack-data==0.2.0
 terminado==0.17.1
 threadpoolctl==2.2.0
 tinycss2==1.2.1
+torch==1.10.2
 tornado==6.2
 traitlets==5.7.1
 typing_extensions==4.4.0
