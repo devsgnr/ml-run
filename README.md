@@ -14,3 +14,8 @@ To create you environment using `pip` you can go ahead and run the following com
 ```bash
 $ pip install -r ./pip/requirements.txt
 ```
+
+---
+
+Current Experiments
+* Titanic - Machine Learning for Disaster [here](https://github.com/devsgnr/ml-run/tree/main/%40titanic)
