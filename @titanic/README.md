@@ -12,9 +12,9 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 ### Results - From My Experiments
 
-| Estimator                                                   | Local Accuracy | Kaggle Accuracy  |
-| ----------------------------------------------------------- | -------------- | ---------------- |
-| KNeighborsClassifier                                        | 0.807 (80.7%)  | 0.766 (76.6%)    |
-| LogisticRegression                                          | 0.784 (78.4%)  | 0.7 (70.0%)      |
-| RandomForestClassifier                                      | 0.832 (83.2%)  | 0.77 (77%)       |
-| AdaBoostClassifier (Base Estimator: RandomForestClassifier) | 0.821 (82.1%)  | ~> Random Forest |
+| Estimator                                                   | Training Accuracy |
+| ----------------------------------------------------------- | ----------------- |
+| KNeighborsClassifier                                        | 0.807 (80.7%)     |
+| LogisticRegression                                          | 0.784 (78.4%)     |
+| RandomForestClassifier                                      | 0.832 (83.2%)     |
+| AdaBoostClassifier (Base Estimator: RandomForestClassifier) | 0.821 (82.1%)     |
